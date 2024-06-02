@@ -5,7 +5,6 @@ This is a portfolio website, a freelance front-end developer and WordPress devel
 
 - HTML
 - CSS
-- JavaScript (if applicable)
 
 ## Installation
 
